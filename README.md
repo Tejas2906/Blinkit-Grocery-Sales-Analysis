@@ -61,7 +61,7 @@ The project focuses on uncovering sales trends, outlet performance, and product-
 ---
 
 ### Fat Content Analysis
-![Fat Content](Images/Fat_Content.png)
+![Fat Content](https://github.com/Tejas2906/Blinkit-Grocery-Sales-Analysis/blob/ecc92b0ffe1798579fc974664ac412c382f93c58/Blinkit%20images/fat%20content.jpg)
 
 - **Regular-fat products** generate higher sales
 - Low-fat products contribute a smaller share
