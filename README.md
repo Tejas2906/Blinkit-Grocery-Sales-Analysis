@@ -43,7 +43,7 @@ The project focuses on uncovering sales trends, outlet performance, and product-
 ---
 
 ### Sales Trend by Outlet Establishment Year
-![Sales Trend](https://github.com/Tejas2906/Blinkit-Grocery-Sales-Analysis/blob/da3265357d5de7fc706cc313ae8edbdb9e6954dd/Blinkit%20images/fat%20content.jpg)
+![Sales Trend](https://github.com/Tejas2906/Blinkit-Grocery-Sales-Analysis/blob/25b0c5e43029e214184a619099eae1bf288d1fa5/Blinkit%20images/outlet%20establishment.jpg)
 
 - Sales peaked around **2018**
 - Growth stabilized in later years
