@@ -52,7 +52,7 @@ The project focuses on uncovering sales trends, outlet performance, and product-
 ---
 
 ### Item Category Analysis
-![Item Type Analysis](Images/Item_Type.png)
+![Item Type Analysis](https://github.com/Tejas2906/Blinkit-Grocery-Sales-Analysis/blob/54233323ffe2166bf623037f4b7014a88c389ccb/Blinkit%20images/item%20type.jpg).
 
 - **Fruits & Snacks** are top revenue contributors
 - Daily essentials outperform niche categories
