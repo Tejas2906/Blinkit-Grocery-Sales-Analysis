@@ -70,7 +70,7 @@ The project focuses on uncovering sales trends, outlet performance, and product-
 ---
 
 ### Outlet Size & Location Performance
-![Outlet Size](Images/Outlet_Size.png)
+![Outlet Size](https://github.com/Tejas2906/Blinkit-Grocery-Sales-Analysis/blob/fbcaf61dd6d5802412b02433937e2e20c2a40f5c/Blinkit%20images/outlet%20size.png)
 
 - **Medium-sized outlets** perform best
 - **Tier 3 locations** generate highest revenue
