@@ -79,7 +79,7 @@ The project focuses on uncovering sales trends, outlet performance, and product-
 ---
 
 ### Outlet Type Comparison
-![Outlet Type](Images/Outlet_Type.png)
+![Outlet Type](https://github.com/Tejas2906/Blinkit-Grocery-Sales-Analysis/blob/3bfc56ac3f2ef2aa9b26976b840a252633d2366c/Blinkit%20images/outlet%20type.jpg)
 
 - **Supermarket Type 1** leads in total sales
 - Grocery stores maintain consistent performance
