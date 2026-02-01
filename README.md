@@ -1,4 +1,3 @@
-# Blinkit-Grocery-Sales-Analysis
 # Blinkit Grocery Sales Analysis | Power BI Dashboard
 
 An interactive **Power BI dashboard** built to analyze grocery sales performance for **Blinkit – India’s Last Minute Delivery App**.  
@@ -98,7 +97,7 @@ The project focuses on uncovering sales trends, outlet performance, and product-
 
 ## Dataset Details
 
-- Source: Grocery sales dataset (Excel format)
+- Source: Grocery sales dataset (https://github.com/Tejas2906/Blinkit-Grocery-Sales-Analysis/blob/6e45de6d90d2c810e26184a21f683ca05cef33df/BlinkIT%20Grocery%20Data.xlsx)
 - Includes:
   - Item details
   - Outlet size, type, and location
@@ -109,6 +108,3 @@ The project focuses on uncovering sales trends, outlet performance, and product-
   - Created calculated measures using DAX
 
 ---
-
-## Repository Structure
-
