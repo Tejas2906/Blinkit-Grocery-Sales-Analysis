@@ -34,7 +34,7 @@ The project focuses on uncovering sales trends, outlet performance, and product-
 ## Dashboard Sections & Insights
 
 ### Sales Performance Summary
-![Sales KPIs]([Images/Sales_KPIs.png](https://github.com/Tejas2906/Blinkit-Grocery-Sales-Analysis/blob/80a61813f65f10c21af16751d28ac0137a18ab97/Blinkit%20images/KPI's.jpg))
+![Sales KPIs](https://github.com/Tejas2906/Blinkit-Grocery-Sales-Analysis/blob/80a61813f65f10c21af16751d28ac0137a18ab97/Blinkit%20images/KPI's.jpg)
 
 - Strong overall revenue of **$1.20M**
 - Consistent average sales across products
@@ -43,7 +43,7 @@ The project focuses on uncovering sales trends, outlet performance, and product-
 ---
 
 ### Sales Trend by Outlet Establishment Year
-![Sales Trend](Images/Sales_Trend.png)
+![Sales Trend](https://github.com/Tejas2906/Blinkit-Grocery-Sales-Analysis/blob/da3265357d5de7fc706cc313ae8edbdb9e6954dd/Blinkit%20images/fat%20content.jpg)
 
 - Sales peaked around **2018**
 - Growth stabilized in later years
