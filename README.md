@@ -8,7 +8,7 @@ The project focuses on uncovering sales trends, outlet performance, and product-
 
 ## Dashboard Overview
 
-![Main Dashboard](Images/Dashboard_Overview.png)
+![Main Dashboard]([Images/Dashboard_Overview.png](https://github.com/Tejas2906/Blinkit-Grocery-Sales-Analysis/blob/main/Blinkit%20images/Dashboard%20Screenshot.jpg?raw=true))
 
 ---
 
